@@ -1,1 +1,2 @@
-#!/bin/echo "printev"
+#!/bin/bash
+#echo "printev"
