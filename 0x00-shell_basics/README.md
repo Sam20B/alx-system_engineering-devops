@@ -1,1 +1,1 @@
-solutions to shell tasks
+0x00-shell_basics
