@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "export BINARY=10100111001"
