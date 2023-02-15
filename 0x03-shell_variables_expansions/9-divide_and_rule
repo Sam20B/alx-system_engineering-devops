@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "export POWER=42784;  DIVIDE=32;/9-divide_and_rule | cat -e"
