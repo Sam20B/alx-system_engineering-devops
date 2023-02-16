@@ -1,0 +1,2 @@
+#!/bin/bash
+ mkdir -p -m777 /tmp/foo/bar/baz 
