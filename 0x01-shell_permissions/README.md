@@ -1,1 +1,1 @@
-my_dir
+permissions to subdirectories
