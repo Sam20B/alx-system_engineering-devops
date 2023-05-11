@@ -1,1 +1,1 @@
-permission to owners
+permission to users only
