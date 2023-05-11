@@ -1,1 +1,1 @@
-reverse
+permissions to subdirectories
