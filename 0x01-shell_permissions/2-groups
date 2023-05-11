@@ -1,0 +1,3 @@
+#!/bin/bash
+groups $(whoami) | cut -d' ' -f3- | tr ' ' ','
+
