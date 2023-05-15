@@ -1,1 +1,1 @@
-deletes
+directories count
