@@ -1,1 +1,1 @@
-num dir
+vars
