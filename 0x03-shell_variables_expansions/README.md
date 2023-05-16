@@ -1,1 +1,1 @@
-action
+num dir
