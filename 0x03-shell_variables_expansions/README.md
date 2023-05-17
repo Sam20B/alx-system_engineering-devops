@@ -1,1 +1,1 @@
-those who do
+print float
