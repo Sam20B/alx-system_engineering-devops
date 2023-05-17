@@ -1,1 +1,1 @@
-paths
+variables
