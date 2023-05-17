@@ -1,1 +1,1 @@
-variables
+local
